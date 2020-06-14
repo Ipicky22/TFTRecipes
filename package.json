@@ -1,6 +1,7 @@
 {
   "name": "tftreact",
   "version": "0.1.0",
+  "homepage": "./",
   "main": "src/Main.js",
   "private": true,
   "dependencies": {
